@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestApiProject</string>
+    <string name="register_employee_here">Register Employee Here</string>
+    <string name="enter_employee_name_here">Enter Employee Name Here</string>
+    <string name="enter_employee_salary_here">Enter Employee Salary Here</string>
+    <string name="enter_employee_city_here">Enter Employee City Here</string>
+    <string name="register">Register</string>
+    <string name="fetching_data_from_database">Fetching Data From Database</string>
+</resources>
